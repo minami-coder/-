@@ -1,5 +1,6 @@
 # translucentExample
 easyx example
 
-使用c++ easyx和部分windosAPI创建的演示程序。
-刚开始了解easyx的可以看看。
+使用VS2019环境开发、编译。
+使用c++ easyx和部分windows API创建的演示程序。
+刚开始了解easy时可以看看。
